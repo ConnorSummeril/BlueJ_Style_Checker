@@ -1,0 +1,2 @@
+compile blue j programs
+javac -cp "C:\Program Files (x86)\BlueJ\lib\bluejext.jar" SimpleExtension.java
